@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
+## Gdzie znaleźć?
+[https://mroczkowski-nabthat.netlify.app](https://mroczkowski-nabthat.netlify.app)
+
 ## Jak uruchomić?
 
 ```npm install```  
