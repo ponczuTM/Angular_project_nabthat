@@ -139,4 +139,11 @@
             border-color: var(--orange-color);
         }
     }
+
+    @media (min-width: 960px) {
+        .company {
+            visibility: visible;
+            display: flex;
+        }
+    }
 }
